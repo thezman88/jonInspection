@@ -14,11 +14,16 @@
     height: 650px;
     background-repeat: no-repeat;
     position: relative;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-position: center;
     background-image: url(https://images.pexels.com/photos/259593/pexels-photo-259593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 }
 
 #jumbotron{
     opacity: 80%;
+}
+
+/* media query needed */
+#inspectImage{
+    width: 150px;
 }
