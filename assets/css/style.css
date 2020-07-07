@@ -34,6 +34,10 @@ li{
     width: 150px;
 }
 
+#inspectImageFooter{
+    width: 110px;
+}
+
 #inspectionDetails{
     /* height: 350px; */
 }
